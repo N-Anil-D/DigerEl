@@ -1,0 +1,3 @@
+RewriteEngine On
+
+RewriteRule ^AnaSayfa$  /NADproje/YonetimPaneli/index.php?SKD=0&SKI=0 [L,NC]
